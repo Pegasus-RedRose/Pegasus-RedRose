@@ -2,6 +2,9 @@
 > *"Onde a arte, a cor e a loucura se encontram no palco dos pixels."* 🎭🃏
 
 ---
+<p align="center">
+  <img src="./assets/circo.png" alt="Circo de Soled" width="100%" />
+</p>
 
 ### 🃏 O Gran Circo das Ilusões
 Entre, entre! Não tenha medo da névoa. Este perfil não é um portfólio corporativo sério — é um espetáculo de testes gráficos, experimentos visuais e designs movidos a pura insanidade criativa e estética. 
