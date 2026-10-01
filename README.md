@@ -36,7 +36,7 @@ Se você veio procurar layouts sóbrios para reuniões de negócios... lamento, 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Circo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pegasus-RedRose&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Circo" />
 </p>
 
 <p align="center">
