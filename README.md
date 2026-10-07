@@ -41,7 +41,7 @@ No grande jogo do picadeiro, cada tela é uma aposta alta, um blefe bem executad
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pegasus-RedRose&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Circo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=valetina-RedRose&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Circo" />
 </p>
 
 <p align="center">
