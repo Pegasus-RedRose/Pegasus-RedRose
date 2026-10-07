@@ -1,4 +1,4 @@
-# 🎪✨ Bem-vindos ao Circo de Soled! ✨🎪
+# ✨ Bem-vindos ao Circo de Soled! ✨
 > *"Onde a arte, a cor e a loucura se encontram no palco dos pixels."* 🎭🃏
 
 ---
